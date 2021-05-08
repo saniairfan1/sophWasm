@@ -1,0 +1,2 @@
+# Maze Game
+Retrieved code for a maze game project for sophomore lab. This file works with professor's wat to wasm code webpage. It displays an avatar stored on my local computer and creates a maze out of blocks. The final code (which included the option to randomly fire left or right by using the space bar and improvements in movement and was not retrieved from school server, was only able to scavenge this out). 
